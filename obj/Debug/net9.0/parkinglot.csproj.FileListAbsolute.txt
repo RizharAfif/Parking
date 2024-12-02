@@ -1,0 +1,14 @@
+D:\Project\C# Net\Parking\parkinglot\bin\Debug\net9.0\parkinglot.exe
+D:\Project\C# Net\Parking\parkinglot\bin\Debug\net9.0\parkinglot.deps.json
+D:\Project\C# Net\Parking\parkinglot\bin\Debug\net9.0\parkinglot.runtimeconfig.json
+D:\Project\C# Net\Parking\parkinglot\bin\Debug\net9.0\parkinglot.dll
+D:\Project\C# Net\Parking\parkinglot\bin\Debug\net9.0\parkinglot.pdb
+D:\Project\C# Net\Parking\parkinglot\obj\Debug\net9.0\parkinglot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\C# Net\Parking\parkinglot\obj\Debug\net9.0\parkinglot.AssemblyInfoInputs.cache
+D:\Project\C# Net\Parking\parkinglot\obj\Debug\net9.0\parkinglot.AssemblyInfo.cs
+D:\Project\C# Net\Parking\parkinglot\obj\Debug\net9.0\parkinglot.csproj.CoreCompileInputs.cache
+D:\Project\C# Net\Parking\parkinglot\obj\Debug\net9.0\parkinglot.dll
+D:\Project\C# Net\Parking\parkinglot\obj\Debug\net9.0\refint\parkinglot.dll
+D:\Project\C# Net\Parking\parkinglot\obj\Debug\net9.0\parkinglot.pdb
+D:\Project\C# Net\Parking\parkinglot\obj\Debug\net9.0\parkinglot.genruntimeconfig.cache
+D:\Project\C# Net\Parking\parkinglot\obj\Debug\net9.0\ref\parkinglot.dll
