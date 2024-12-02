@@ -49,11 +49,13 @@ namespace ParkingLot
         }
         // end show status vehicle
 
+        // count type vehicle
         public void CountVehiclesByType(string type)
         {
             int count = _parkingLots.Values.Count(v => v.Type == type);
             Console.WriteLine(count);
         }
+        // end count type vehicle
 
         public void GetVehiclesByPlate(bool odd)
         {
