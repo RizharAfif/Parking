@@ -27,7 +27,8 @@ namespace ParkingLot
             _parkingLots[availableSlot] = new Vehicle { RegistrationNumber = regNumber, Color = color, Type = type };
             Console.WriteLine($"Allocated slot number: {availableSlot}");
         }
-
+        
+        // remove the vehicle
         public void LeaveSlotVehicle(int slotNumber)
         {
             if (_parkingLots.Remove(slotNumber))
@@ -35,7 +36,9 @@ namespace ParkingLot
             else
                 Console.WriteLine("Slot not found");
         }
+        // end remove the vehicle
 
+        // show status vehicle
         public void ShowStatus()
         {
             Console.WriteLine("Slot\tNo.\tType\tRegistration No\tColour");
@@ -44,6 +47,7 @@ namespace ParkingLot
                 Console.WriteLine($"{slot.Key}\t{slot.Value.RegistrationNumber}\t{slot.Value.Type}\t{slot.Value.Color}");
             }
         }
+        // end show status vehicle
 
         public void CountVehiclesByType(string type)
         {
