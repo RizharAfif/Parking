@@ -12,3 +12,4 @@ D:\Project\C# Net\Parking\parkinglot\obj\Debug\net9.0\refint\parkinglot.dll
 D:\Project\C# Net\Parking\parkinglot\obj\Debug\net9.0\parkinglot.pdb
 D:\Project\C# Net\Parking\parkinglot\obj\Debug\net9.0\parkinglot.genruntimeconfig.cache
 D:\Project\C# Net\Parking\parkinglot\obj\Debug\net9.0\ref\parkinglot.dll
+D:\Project\C# Net\Parking\parkinglot\obj\Debug\net9.0\parkinglot.sourcelink.json
